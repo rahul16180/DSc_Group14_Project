@@ -11,6 +11,8 @@ Kshitij Kishore (2014052)
 Vediant (2014117)
 
 
+
+
 We used 5 datasets for the project. The dataset description is as the following:
 
 1) earthquake.csv - Significant earthquakes data, 1965-2016, US Geological Survey
