@@ -1,7 +1,6 @@
-# DSc_Group14_Project
-Group 14 - Data Science Project
+# Data visualization on Natural Disasters around the world & Earthquake magnitude prediction
 
-Data visualization on Natural Disasters around the world & Earthquake magnitude prediction
+Group 14 - Data Science Project
 
 By,
 Rahul Saini (2016180)
